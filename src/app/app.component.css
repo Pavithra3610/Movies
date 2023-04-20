@@ -1,0 +1,19 @@
+.first{
+    height: 300px;
+    width: 150px;
+}
+.container{
+   background-color: aqua;
+   min-height: auto;
+}
+.card{
+    position: flex;
+}
+.header{
+   position: relative;
+   padding: 4px  5px ;
+   align-items: center;
+   align-self: center;
+   border-color: brown;
+   border-radius: 6px;
+}

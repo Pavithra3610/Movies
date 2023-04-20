@@ -1,0 +1,9 @@
+#img{
+    width: 400;
+    height: 800;
+}
+p{
+  padding: 15px;
+  position: inherit;
+  color: blue;
+}
